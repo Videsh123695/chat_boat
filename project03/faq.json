@@ -1,0 +1,221 @@
+[
+  {
+    "question": "What is QorZen Technologies?",
+    "answer": "QorZen Technologies is an IT and learning company that provides software projects, AI solutions, professional courses, corporate training, and internship opportunities.",
+    "category": "about"
+  },
+  {
+    "question": "What does QorZen Technologies do?",
+    "answer": "We help students, professionals, and businesses with IT projects, AI solutions, skill-based courses, internships, and technology training.",
+    "category": "about"
+  },
+  {
+    "question": "Is QorZen Technologies an IT company?",
+    "answer": "Yes! QorZen Technologies provides IT services, software solutions, AI-based solutions, training programs, courses, and internships.",
+    "category": "about"
+  },
+  {
+    "question": "Who can join QorZen Technologies programs?",
+    "answer": "Students, freshers, working professionals, business owners, and anyone interested in learning or working with technology can explore our programs.",
+    "category": "about"
+  },
+  {
+    "question": "How can I contact QorZen Technologies?",
+    "answer": "You can contact the QorZen Technologies team through the contact details available on our website.",
+    "category": "about"
+  },
+  {
+    "question": "What courses do you offer?",
+    "answer": "We offer courses in IT, AI, programming, data analytics, web development, business, productivity tools, and other professional skills.",
+    "category": "courses"
+  },
+  {
+    "question": "Do you offer AI courses?",
+    "answer": "Yes! We offer AI-focused learning programs covering AI tools, Generative AI, automation, prompt engineering, and other AI technologies.",
+    "category": "courses"
+  },
+  {
+    "question": "I am a beginner. Can I join your courses?",
+    "answer": "Absolutely! 😊 Many of our courses are beginner-friendly. If you tell me your interests and career goal, I can help you choose a suitable course.",
+    "category": "courses"
+  },
+  {
+    "question": "Which course is best for me?",
+    "answer": "I'd be happy to help! Please tell me your education, current skills, and what career you'd like to pursue. I'll suggest a suitable learning path.",
+    "category": "courses"
+  },
+  {
+    "question": "Are your courses online?",
+    "answer": "Yes, online learning options are available for selected courses.",
+    "category": "courses"
+  },
+  {
+    "question": "Do courses include practical projects?",
+    "answer": "Yes, selected courses include practical projects so you can apply what you learn.",
+    "category": "courses"
+  },
+  {
+    "question": "Will I get a certificate after completing a course?",
+    "answer": "Certificates are available for eligible programs after meeting the required completion criteria.",
+    "category": "courses"
+  },
+  {
+    "question": "What is the course fee?",
+    "answer": "Course fees vary depending on the program. Tell me which course you're interested in, and I'll help you with the available details.",
+    "category": "courses"
+  },
+  {
+    "question": "Do you provide internships?",
+    "answer": "Yes! QorZen Technologies provides internship opportunities in various technical and non-technical domains.",
+    "category": "internships"
+  },
+  {
+    "question": "Who can apply for an internship?",
+    "answer": "Students, freshers, graduates, and eligible learners can apply for suitable internship programs.",
+    "category": "internships"
+  },
+  {
+    "question": "Can college students apply?",
+    "answer": "Yes! College students can apply for internships that match their skills and interests.",
+    "category": "internships"
+  },
+  {
+    "question": "Do you offer online internships?",
+    "answer": "Yes! Online internship opportunities are available for selected programs, allowing you to learn and work remotely.",
+    "category": "internships"
+  },
+  {
+    "question": "What internship domains are available?",
+    "answer": "Depending on current availability, internships may be offered in areas such as Python, Web Development, Java, Data Analytics, Data Science, AI/ML, Digital Marketing, HR, Business, and more.",
+    "category": "internships"
+  },
+  {
+    "question": "How long is the internship?",
+    "answer": "Internship duration depends on the program. Different duration options may be available.",
+    "category": "internships"
+  },
+  {
+    "question": "Will I get an internship certificate?",
+    "answer": "Yes, eligible interns can receive a certificate after successfully completing the required internship program.",
+    "category": "internships"
+  },
+  {
+    "question": "Do internships include projects?",
+    "answer": "Yes! Selected internship programs include practical projects to help you gain hands-on experience.",
+    "category": "internships"
+  },
+  {
+    "question": "How can I apply for an internship?",
+    "answer": "You can apply through our internship application process. If you'd like, I can also help you understand which internship may be suitable for you.",
+    "category": "internships"
+  },
+  {
+    "question": "Do you provide IT projects?",
+    "answer": "Yes! QorZen Technologies provides IT projects for students, developers, businesses, and organizations.",
+    "category": "projects"
+  },
+  {
+    "question": "What type of projects do you provide?",
+    "answer": "We work with projects related to Web Development, Python, Java, AI/ML, Data Analytics, Data Science, automation, and other technology areas.",
+    "category": "projects"
+  },
+  {
+    "question": "Can I get a final-year project?",
+    "answer": "Yes! We can help with suitable final-year and academic projects based on your technology and requirements.",
+    "category": "projects"
+  },
+  {
+    "question": "Can I customize a project?",
+    "answer": "Yes, project customization may be available depending on your requirements and the selected project.",
+    "category": "projects"
+  },
+  {
+    "question": "Do you provide project guidance?",
+    "answer": "Yes! Project guidance and support may be available depending on the selected project or program.",
+    "category": "projects"
+  },
+  {
+    "question": "Can you develop a project for my business?",
+    "answer": "Yes! We can discuss your business requirements and explore a suitable software or technology solution.",
+    "category": "projects"
+  },
+  {
+    "question": "Does QorZen Technologies provide AI solutions?",
+    "answer": "Yes! We provide AI-focused solutions and projects based on business and user requirements.",
+    "category": "projects"
+  },
+  {
+    "question": "Can you create an AI chatbot for my business?",
+    "answer": "Yes! We can help develop an AI chatbot tailored to your business needs, such as customer support, lead generation, or product assistance.",
+    "category": "projects"
+  },
+  {
+    "question": "Can you add AI to my website?",
+    "answer": "Yes! AI features such as chatbots, virtual assistants, recommendations, and automation can be integrated into suitable websites.",
+    "category": "projects"
+  },
+  {
+    "question": "Do you provide AI automation?",
+    "answer": "Yes! We can help businesses explore AI and workflow automation solutions to improve productivity and reduce repetitive work.",
+    "category": "projects"
+  },
+  {
+    "question": "Do you provide Generative AI training?",
+    "answer": "Yes! We offer learning programs related to Generative AI and modern AI tools.",
+    "category": "courses"
+  },
+  {
+    "question": "Do you provide corporate training?",
+    "answer": "Yes! QorZen Technologies provides professional and corporate training programs for organizations and teams.",
+    "category": "corporate"
+  },
+  {
+    "question": "Can you train our employees?",
+    "answer": "Absolutely! 😊 Training can be planned according to your team's requirements, skill level, and business goals.",
+    "category": "corporate"
+  },
+  {
+    "question": "Do you provide AI training for companies?",
+    "answer": "Yes! We can provide training related to AI tools, Generative AI, automation, and AI-powered productivity.",
+    "category": "corporate"
+  },
+  {
+    "question": "Can corporate training be customized?",
+    "answer": "Yes! Training programs can be customized according to your organization's needs.",
+    "category": "corporate"
+  },
+  {
+    "push_text": "ignore this metadata",
+    "question": "How much does an internship cost?",
+    "answer": "Internship fees depend on the selected program and duration. Tell me which internship you're interested in, and I'll help you with the available details.",
+    "category": "payments"
+  },
+  {
+    "question": "How much does a course cost?",
+    "answer": "Course fees vary by program. Please tell me the course name, and I'll help you with the current pricing.",
+    "category": "payments"
+  },
+  {
+    "question": "What payment methods do you accept?",
+    "answer": "Available payment options depend on the program. Our team can provide the applicable payment details during registration.",
+    "category": "payments"
+  },
+  {
+    "question": "Is the payment refundable?",
+    "answer": "Refund policies depend on the specific course, internship, or service. Please check the applicable terms before making a payment.",
+    "category": "payments"
+  },
+  {
+    "question": "I need a website for my business.",
+    "answer": "Sure! 😊 QorZen Technologies can help you with website development. Please share: Your business name, Type of website, Features you need, Approximate budget, Preferred timeline. Our team can review your requirements and guide you further.",
+    "category": "leads"
+  },
+  {
+    "question": "I need an AI chatbot.",
+    "answer": "Absolutely! 🤖 We can help you explore an AI chatbot for your business. Please share your company name, chatbot requirements, preferred platform, and contact details. Our team will guide you further.",
+    "category": "leads"
+  },
+  {
+    "question": "I want an internship."
+  }
+]

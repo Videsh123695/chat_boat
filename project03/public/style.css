@@ -1,0 +1,142 @@
+:root {
+  --primary: #2563eb;
+  --primary-hover: #1d4ed8;
+  --bg-main: #f8fafc;
+  --bg-card: #ffffff;
+  --text-dark: #1e293b;
+  --msg-user: #2563eb;
+  --msg-bot: #f1f5f9;
+  --border: #e2e8f0;
+}
+
+body {
+  font-family: system-ui, -apple-system, sans-serif;
+  background-color: var(--bg-main);
+  color: var(--text-dark);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.chat-wrapper {
+  width: 440px;
+  height: 600px;
+  background: var(--bg-card);
+  border-radius: 16px;
+  box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.05), 0 8px 10px -6px rgba(0, 0, 0, 0.05);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  border: 1px solid var(--border);
+}
+
+.chat-header {
+  background: var(--primary);
+  color: white;
+  padding: 16px 20px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.chat-header h1 {
+  margin: 0;
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+.header-status {
+  width: 10px;
+  height: 10px;
+  background: #22c55e;
+  border-radius: 50%;
+  box-shadow: 0 0 8px #22c55e;
+}
+
+.chat-body {
+  flex: 1;
+  padding: 20px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  scroll-behavior: smooth;
+}
+
+.msg {
+  padding: 12px 16px;
+  border-radius: 18px;
+  max-width: 75%;
+  font-size: 0.95rem;
+  line-height: 1.4;
+  word-wrap: break-word;
+  animation: fadeIn 0.2s ease-out forwards;
+}
+
+.bot {
+  background: var(--msg-bot);
+  color: var(--text-dark);
+  align-self: flex-start;
+  border-bottom-left-radius: 4px;
+}
+
+.user {
+  background: var(--msg-user);
+  color: white;
+  align-self: flex-end;
+  border-bottom-right-radius: 4px;
+}
+
+/* Typing Loading Indicator */
+.typing::after {
+  content: ' . . .';
+  animation: blink 1s infinite step-start;
+}
+
+.chat-footer {
+  display: flex;
+  padding: 12px;
+  background: var(--bg-main);
+  border-top: 1px solid var(--border);
+  gap: 8px;
+}
+
+#userInput {
+  flex: 1;
+  border: 1px solid var(--border);
+  border-radius: 24px;
+  padding: 12px 18px;
+  outline: none;
+  font-size: 0.95rem;
+  transition: border-color 0.2s;
+}
+
+#userInput:focus {
+  border-color: var(--primary);
+}
+
+#sendBtn {
+  background: var(--primary);
+  color: white;
+  border: none;
+  border-radius: 24px;
+  padding: 0 22px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+#sendBtn:hover {
+  background: var(--primary-hover);
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(5px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes blink {
+  50% { opacity: 0; }
+}
